@@ -14,7 +14,7 @@ But you should **NOT** search for:
 
 * Code
 
-If you see code, avert your eyes and hit the back button!
+If you see code, hit the back button!
 
 This isn't for anti-cheating purposes. This is because _if you copy code, you won't learn the most important part of this lesson!_ One of the things we want to practice here is to take a spec and turn it into code. You'll be expected to do this incessantly at work, and we want to practice it here. Yes, it's harder this way, but you don't get better by practicing easy stuff.
 
